@@ -1,0 +1,19 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.pyc
+.project
+.settings
+.pydevproject
+.idea
+.spyproject
+.tox
+nosetests.xml
+data/
+bbcu.dnaClass.egg-info/
+*.egg/
+.eggs/
+build/
+dist/
+lib/
+scripts-2.7/
+error.log
+
